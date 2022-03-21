@@ -1,0 +1,109 @@
+*{
+    background-color: #bbe4e9;
+    margin: 0;
+}
+li {
+    display:block;
+    float: left;
+    position: relative;
+    left: 40%;
+    top: 25px;
+    padding: 0 20px;
+    font-size: 18px;
+    
+    
+}
+#big{
+ background-color: black;
+}
+#title {
+    position: relative;
+    left: 3%;
+    top: 10px;
+}
+.menu{
+    margin: 0;
+    height: 80px;
+    
+
+}
+.sec1 {
+    height: 300px;
+}
+#insection {
+    height: 30px;
+    width: 650px;
+    
+}
+.seccionsita{
+    width: 200px;
+    display: inline-block;
+   
+    /*display: block;
+    float: left;
+    padding: 0 20px; */
+
+}
+.seccionsita2{
+    width: 200px;
+    display: inline-block;
+}
+.sec3{
+    
+    height: 100vh;
+}
+/*
+.vacunas{
+    width: 100px; 
+    display: inline-block;
+} */
+.seccionsita3{
+    width: 330px;
+    position: relative;
+    top: 200px;
+    display: inline-block;
+}
+.sec4{
+    position: relative;
+    top: 250px;
+}
+.question{
+    font-size: 40px;
+    text-align:left;
+}
+.benef{
+    width: 330px;
+    display: inline-block;
+}
+#maintitle{
+    font-size: 60px;
+}
+#desc{
+    font-size: 25px;
+}
+.preparations{
+    font-size: 31px;
+    text-align: center;
+    color: blue;
+    
+}
+.preps{
+    text-align: center;
+    font-size: 29px;
+}
+.emerg{
+    text-align: center;
+    font-size: 35px;
+}
+.contact{
+    width: 250px;
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+footer{
+    height:400px;
+    font-size: 30px;
+    background-color: #407088;
+    
+}
